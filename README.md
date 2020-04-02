@@ -14,24 +14,32 @@ On [OSF](https://osf.io/snb6p/)
 See demonstration of our algorithm and framework on the test set data:   
 On [youtube](https://youtu.be/i5bX_XbwXq0)
 
+## Data Samples
 
+![Groundtruth sample](/Graphics/0001.tif)
+![Input sample](/Graphics/Wikiimage.jpg)
 
 ## Dataset Structure
 
-Download the data [here](https://osf.io/6svkf/)
+Download the full videos [here](https://osf.io/6svkf/)
 
 ```
 |- data
-	| test_images (200 annotated image sequences for testing)
-	|- test_videos 
-		- example_R0004.avi
-    		- ...
-		|- frames (colorframes of the testset)
-		|- label_masks (annotation of the testset)
-	|- train_images(550 annotated image segmentation data)
-			|- ventral_mask (heart groundtruth masks)
-			|- ventral_samples (color images related to the masks)
-			|- ventral_sample_gray (grayscale images related to the masks)
+	|- train_images
+		|- lateral_mask
+		|- lateral_sample_gray
+		|- ventral_mask
+		|- ventral_sample_gray
+		|- ventral_samples
+	|- test_images
+		|- frames_N0092
+		|- frames_R0004
+		|- label_masks_N0092
+		|- label_masks_R0004
+		|- lateral_mask
+		|- lateral_sample_gray
+		|- ventral_mask
+		|- ventral_sample_gray
 ```
 
 
