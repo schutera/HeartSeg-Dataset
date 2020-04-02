@@ -20,5 +20,9 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td>sameAs</td>
       <td><code itemprop="sameAs">https://github.com/schutera/HeartSeg-Dataset/edit/master/DatasetMetadata.md</code></td>
     </tr>
+   <tr>
+      <td>license</td>
+      <td><code itemprop="license">GNU General Public License (GPL) 3.0</code></td>
+    </tr>
   </table>
 </div>
