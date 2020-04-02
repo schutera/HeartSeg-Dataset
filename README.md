@@ -25,8 +25,6 @@ Exemplary sample of the dataset (left) and the provided binary ground truth mask
 
 ## Dataset Structure
 
-All single frames are available here on github:
-
 ```
 |- Dataset
 	|- train_images
@@ -45,7 +43,7 @@ All single frames are available here on github:
 		|- ventral_mask
 		|- ventral_sample_gray
 ```
-Download the full videos [here](https://osf.io/6svkf/)
+Download the dataset: train images, test images and full videos [here](https://osf.io/6svkf/)
 
 ## Data Origin
 
