@@ -9,16 +9,16 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>name</td>
-      <td><code itemprop="name">Example dataset</code></td>
+      <td><code itemprop="name">HeartSeg Dataset</code></td>
     </tr>
       <tr>
       <td>description</td>
-      <td><code itemprop="description">Description of the dataset between 50 and 5000 characters</code></td>
+      <td><code itemprop="description">The medaka (Oryzias latipes) and the zebrafish (Danio rerio) are used as a model organism for a variety of subjects in biomedical research the here presented work aims to study the potential of automated ventricular dimension estimation through heart segmentation in medaka. </code></td>
     </tr>
     </tr>
       <tr>
       <td>sameAs</td>
-      <td><code itemprop="sameAs">https://gist.github.com/chrisgorgo/ccabf9e2b8b933d45a5fe9be4a136335</code></td>
+      <td><code itemprop="sameAs">https://github.com/schutera/HeartSeg-Dataset/edit/master/DatasetMetadata.md</code></td>
     </tr>
   </table>
 </div>
