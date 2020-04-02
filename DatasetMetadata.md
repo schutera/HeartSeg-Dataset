@@ -24,9 +24,15 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td>license</td>
       <td><code itemprop="license">https://www.gnu.org/licenses/lgpl-3.0.en.html</code></td>
     </tr>
+    <tr>
+      <td>citation</td>
+      <td><code itemprop="citation">https://scholar.googleusercontent.com/scholar.bib?q=info:tG1eQiYW7dAJ:scholar.google.com/&output=citation&scisdr=CgWkt2tCEMKyuGjZQNE:AAGBfm0AAAAAXoXcWNGVXHRDCynLLpA7OTNwa7sJxhDy&scisig=AAGBfm0AAAAAXoXcWBywxeYaEql6vG8QhJZZp7onmgv9&scisf=4&ct=citation&cd=-1&hl=de&scfhb=1</code></td>
+    </tr>
    <tr>
       <td>keywords</td>
       <td><code itemprop="keywords">medaka, heart, segmentation, image, deep learning, machine learning, biomedical imaging, zebrafish, ventricle, label, mask, groundtruth, data, annotation, neural network</code></td>
     </tr>
   </table>
 </div>
+
+
