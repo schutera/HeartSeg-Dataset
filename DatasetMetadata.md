@@ -25,6 +25,10 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td><code itemprop="license">https://www.gnu.org/licenses/lgpl-3.0.en.html</code></td>
     </tr>
     <tr>
+      <td>encodingFormat</td>
+      <td><code itemprop="encodingFormat">.tif</code></td>
+    </tr>
+    <tr>
      <tr>
       <td>url</td>
       <td><code itemprop="url">https://osf.io/snb6p/</code></td>
