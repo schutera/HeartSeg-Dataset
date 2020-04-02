@@ -16,15 +16,19 @@ On [youtube](https://youtu.be/i5bX_XbwXq0)
 
 ## Data Samples
 
-![Groundtruth sample](/Graphics/0001.tif)
-![Input sample](/Graphics/Wikiimage.jpg)
+Exemplary sample of the dataset (left) and the provided binary ground truth mask for the ventricle (right).
+<p float="center">
+  <img src="/Graphics/color_frame_1.tif" width="400" /> 
+  <img src="/Graphics/0001.tif" width="400" />
+</p>
+
 
 ## Dataset Structure
 
-Download the full videos [here](https://osf.io/6svkf/)
+All single frames are available here on github:
 
 ```
-|- data
+|- Dataset
 	|- train_images
 		|- lateral_mask
 		|- lateral_sample_gray
@@ -41,7 +45,7 @@ Download the full videos [here](https://osf.io/6svkf/)
 		|- ventral_mask
 		|- ventral_sample_gray
 ```
-
+Download the full videos [here](https://osf.io/6svkf/)
 
 ## Data Origin
 
