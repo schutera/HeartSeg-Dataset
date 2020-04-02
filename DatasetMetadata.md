@@ -39,7 +39,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
    <tr>
       <td>keywords</td>
-      <td><code itemprop="keywords">medaka, heart, segmentation, image, deep learning, machine learning, biomedical imaging, zebrafish, ventricle, label, mask, groundtruth, data, annotation, neural network</code></td>
+      <td><code itemprop="keywords">medaka, heart, segmentation, image, deep learning, machine learning, biomedical imaging, zebrafish, ventricle, label, mask, groundtruth, data, annotation, neural network, neural, network, bio, medical, medicine, biology, imaging, tif, deep, learning, ground, truth, biomedical, computer vision, vision, fish</code></td>
     </tr>
   </table>
 </div>
