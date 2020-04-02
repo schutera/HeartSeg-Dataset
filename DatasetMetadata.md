@@ -22,7 +22,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
    <tr>
       <td>license</td>
-      <td><code itemprop="license">GNU General Public License (GPL) 3.0</code></td>
+      <td><code itemprop="license">https://www.gnu.org/licenses/lgpl-3.0.en.html</code></td>
     </tr>
   </table>
 </div>
