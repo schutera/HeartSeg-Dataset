@@ -3,7 +3,7 @@
 The medaka (Oryzias latipes) and the zebrafish (Danio rerio) are used as a model organism for a variety of subjects in biomedical research the here presented work aims to study the potential of automated ventricular dimension estimation through heart segmentation in medaka. 
 For more on this, it's time for a closer look on our paper and the supplementary materials.
 
-![Automated quantification of ventricular dimensions](/Graphics/example.jpg)
+![Automated quantification of ventricular dimensions](/Graphics/Wiki-image.JPG)
 
 See our paper here:  
 https://www.liebertpub.com/doi/10.1089/zeb.2019.1754
@@ -23,7 +23,7 @@ https://youtu.be/i5bX_XbwXq0
 	| test_images (200 annotated image sequences for testing)
 	|- test_videos 
 		- example_R0004.avi
-    - ...
+    		- ...
 		|- frames (colorframes of the testset)
 		|- label_masks (annotation of the testset)
 	|- train_images(550 annotated image segmentation data)
