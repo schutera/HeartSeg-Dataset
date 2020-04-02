@@ -24,6 +24,10 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td>license</td>
       <td><code itemprop="license">https://www.gnu.org/licenses/lgpl-3.0.en.html</code></td>
     </tr>
+    <tr>
+      <td>creator</td>
+      <td><code itemprop="creator">Mark Schutera, Steffen Just, Jakob Gierten, Ralf Mikut, Markus Reischl, Christian Pylatiuk</code></td>
+    </tr>
      <tr>
       <td>url</td>
       <td><code itemprop="url">https://osf.io/snb6p/</code></td>
