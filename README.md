@@ -5,18 +5,20 @@ For more on this, it's time for a closer look on our paper and the supplementary
 
 ![Automated quantification of ventricular dimensions](/Graphics/Wikiimage.jpg)
 
-See our paper here:  
-https://www.liebertpub.com/doi/10.1089/zeb.2019.1754
+See our paper:  
+On [Liebertpub](https://www.liebertpub.com/doi/10.1089/zeb.2019.1754)
 
-See our codebase here:  
-https://osf.io/snb6p/
+See our codebase:  
+On [OSF](https://osf.io/snb6p/)
 
-See demonstration of our algorithm and framework on the test set data:  
-https://youtu.be/i5bX_XbwXq0
+See demonstration of our algorithm and framework on the test set data:   
+On [youtube](https://youtu.be/i5bX_XbwXq0)
 
 
 
 ## Dataset Structure
+
+Download the data [here](https://osf.io/6svkf/)
 
 ```
 |- data
