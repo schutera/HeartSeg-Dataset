@@ -70,7 +70,7 @@ In any case feel free to reach out and spread the work.
   number={6},
   pages={542--545},
   year={2019},
-  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+  publisher={Mary Ann Liebert}
 }
 ```
 
