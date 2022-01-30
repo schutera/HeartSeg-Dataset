@@ -16,11 +16,7 @@ On [youtube](https://youtu.be/i5bX_XbwXq0)
 
 ## Data Samples
 
-Exemplary sample of the dataset (left) and the provided binary ground truth mask for the ventricle (right).
-<p float="center">
-  <img src="/Graphics/color_frame_1.tif" width="400" /> 
-  <img src="/Graphics/0001.tif" width="400" />
-</p>
+Exemplary [sample of the dataset](schutera.github.com/HeartSeg-Dataset/tree/master/Graphics/color_frame_1.tif) and the provided [binary ground truth mask for the ventricle](schutera.github.com/HeartSeg-Dataset/tree/master/Graphics/0001.tiff)
 
 
 ## Dataset Structure
